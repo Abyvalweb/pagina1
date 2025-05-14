@@ -11,5 +11,3 @@
 <source src="Conjunto Rienda Real x La Pócima Norteña - Sobran Motivos (video oficial).ogg" autoplay loop type="video/ogg">
 Tu navegador no es compatible con videos
 </video>
-
-
