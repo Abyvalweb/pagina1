@@ -12,5 +12,4 @@
 Tu navegador no es compatible con videos
 </video>
 
-</BODY>
-</HTML
+
